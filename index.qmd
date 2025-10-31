@@ -1,0 +1,19 @@
+---
+title: ""
+---
+
+![](crc_logo.png){fig-align="center"}
+
+## Hand crafted goods from Vermont's Northeast Kingdom
+#### We are long time makers with a shared love of simple, functional, hand crafted items. We decided to combine our crafts into a collaborative effort and to share our work with our local community and further afield.
+
+:::{layout-ncol=2}
+
+##### David
+![](david.png){fig-align="center"}
+I've always been fascinated with wood and have been carving and making things since I was a kid. There's something compelling about making and using materials from nature for our everyday needs. I work with local woods, mostly found on our own land, and harvest material that has already fallen, been damaged, and occasional non-native invasive species. I finish my items with food safe materials like walnut oil and beeswax.
+
+##### Jenn
+![](jenn.png){fig-align="center"}
+Each piece I craft is an opportunity for contemplation; of the moment that inspired the design, of the craft traditions and teachers I am indebted to, and of the tactile now-ness of creation. My hope is that my work brings grace and joy to your life, too.
+:::

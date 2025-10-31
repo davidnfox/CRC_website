@@ -1,0 +1,17 @@
+---
+title: "Wood"
+format: html
+lightbox: true
+---
+
+::: {layout-ncol=3}
+![carving](images/stump_spoons.png){group="my-group"}
+
+![cherry salad set](images/salad_set.jpg){group="my-group"}
+
+![cherry scoops](images/scoops.png){group="my-group"}
+
+![salad set and fika board](images/ig1.webp){group="my-group"}
+
+![eating spoons](images/ig2.webp){group="my-group"}
+:::

@@ -1,0 +1,6 @@
+---
+title: "Cloth"
+format: html
+---
+
+![printed napkins](images/napkin.png)

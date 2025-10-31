@@ -1,0 +1,18 @@
+---
+title: "Stone"
+format: html
+lightbox: true
+---
+::: {layout-ncol=3}
+![printed plate](images/plate.png){group="my-group"}
+
+![bowl](images/bowl1.webp){group="my-group"}
+
+![bud vases](images/bud_vases.webp){group="my-group"}
+
+![utensile holders](images/utensile_holders.webp){group="my-group"}
+
+:::
+
+
+
